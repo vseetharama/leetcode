@@ -15,4 +15,4 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
     // Return an empty array if no solution is found
     *returnSize = 0;
     return malloc(sizeof(int) * 0);
-}54
+}
